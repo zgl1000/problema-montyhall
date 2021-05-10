@@ -1,5 +1,7 @@
 # montyhall
 
+Projeto que utiliza VueJS.
+
 ## Project setup
 ```
 yarn install
